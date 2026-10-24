@@ -91,7 +91,7 @@ ROLLBACK;
 
 ## Validation and Evidence
 
-**Actual validation status: awaiting confirmation.** The final Neon result grid has not been supplied for this documentation. The expected outcomes below must not be treated as observed results.
+**Actual validation status: awaiting confirmation.** 
 
 | Check | Expected outcome |
 |---|---|
