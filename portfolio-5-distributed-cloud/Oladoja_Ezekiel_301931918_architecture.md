@@ -36,9 +36,9 @@ No failover experiment, replication-lag measurement, majority-write test, or sha
 
 Existing evidence links:
 
-- [Portfolio 4 setup](../portfolio-4-nosql/evidence/01-setup.png)
-- [Portfolio 4 seed documents](../portfolio-4-nosql/evidence/02-seed.png)
-- [Portfolio 4 query explain](../portfolio-4-nosql/evidence/03-queries.png)
+- [Portfolio 4 setup](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-4-nosql/evidence/Oladoja_Ezekiel_301931918_01-setup.png)
+- [Portfolio 4 seed documents](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-4-nosql/evidence/Oladoja_Ezekiel_301931918_02-seed.png)
+- [Portfolio 4 query explain](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-4-nosql/evidence/Oladoja_Ezekiel_301931918_03-queries.png)
 
 Do not infer sharding from an Atlas hostname containing the word `shard`. Deployment naming is not proof that the collection is partitioned across shards.
 
