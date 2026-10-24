@@ -65,7 +65,7 @@ For the clinic, replication can support continued service after a member failure
 
 ### Evidence to Collect
 
-Run [01-inspect-deployment.js](scripts/01-inspect-deployment.js) and retain its JSON output at `evidence/deployment-inspection.json`.
+Run [01-inspect-deployment.js](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-5-distributed-cloud/scripts/Oladoja_Ezekiel_301931918_01-inspect-deployment.js) and retain its JSON output at `evidence/deployment-inspection.json`.
 
 | Inspection field | Meaning | What it does not prove |
 |---|---|---|
@@ -171,7 +171,7 @@ The provider, region, tier, shard key, uniqueness redesign, cost, and migration 
 | Evidence | Purpose | Status |
 |---|---|---|
 | Existing Portfolio 4 screenshots | Show cloud-hosted documents, validation, indexes, and execution | Reviewed |
-| [deployment-inspection.json](evidence/deployment-inspection.json) | Topology, counts, member status, majority read, and unavailable command | Reviewed; ten OBSERVED sections, one UNAVAILABLE |
+| [deployment-inspection.json](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-5-distributed-cloud/evidence/Oladoja_Ezekiel_301931918_deployment-inspection.json) | Topology, counts, member status, majority read, and unavailable command | Reviewed; ten OBSERVED sections, one UNAVAILABLE |
 | Atlas cluster screenshot | Confirm tier, provider, region, and configuration shown | Pending |
 | Failover or outage results | Establish recovery behaviour | Not performed; no claim made |
 | Sharding results | Establish actual partitioning | Not performed; proposal only |
