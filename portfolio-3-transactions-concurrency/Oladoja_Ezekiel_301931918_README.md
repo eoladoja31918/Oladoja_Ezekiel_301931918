@@ -24,13 +24,13 @@ All demonstration records are fictional. Reserved identifiers are `P3-P-01`, `P3
 
 | File | Purpose |
 |---|---|
-| [Oladoja_Ezekiel_301931918_01-setup.sql](sql/Oladoja_Ezekiel_301931918_01-setup.sql) | Creates two test patients and one test doctor |
-| [Oladoja_Ezekiel_301931918_02-commit-rollback.sql](sql/Oladoja_Ezekiel_301931918_02-commit-rollback.sql) | Demonstrates persistence and explicit rollback |
-| [Oladoja_Ezekiel_301931918_03-isolation-session-a.sql](sql/Oladoja_Ezekiel_301931918_03-isolation-session-a.sql) | Updates the doctor's name in Session A |
-| [Oladoja_Ezekiel_301931918_04-isolation-session-b.sql](sql/Oladoja_Ezekiel_301931918_04-isolation-session-b.sql) | Reads the name before and after A commits |
-| [Oladoja_Ezekiel_301931918_05-booking-session-a.sql](sql/Oladoja_Ezekiel_301931918_05-booking-session-a.sql) | Creates the first, initially uncommitted booking |
-| [Oladoja_Ezekiel_301931918_06-booking-session-b.sql](sql/Oladoja_Ezekiel_301931918_06-booking-session-b.sql) | Attempts a conflicting booking |
-| [Oladoja_Ezekiel_301931918_07-verify.sql](sql/Oladoja_Ezekiel_301931918_07-verify.sql) | Displays the surviving booking |
+| [Oladoja_Ezekiel_301931918_01-setup.sql](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-3-transactions-concurrency/sql/Oladoja_Ezekiel_301931918_01-setup.sql) | Creates two test patients and one test doctor |
+| [Oladoja_Ezekiel_301931918_02-commit-rollback.sql](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-3-transactions-concurrency/sql/Oladoja_Ezekiel_301931918_02-commit-rollback.sql) | Demonstrates persistence and explicit rollback |
+| [Oladoja_Ezekiel_301931918_03-isolation-session-a.sql](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-3-transactions-concurrency/sql/Oladoja_Ezekiel_301931918_03-isolation-session-a.sql) | Updates the doctor's name in Session A |
+| [Oladoja_Ezekiel_301931918_04-isolation-session-b.sql](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-3-transactions-concurrency/sql/Oladoja_Ezekiel_301931918_04-isolation-session-b.sql) | Reads the name before and after A commits |
+| [Oladoja_Ezekiel_301931918_05-booking-session-a.sql](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-3-transactions-concurrency/sql/Oladoja_Ezekiel_301931918_05-booking-session-a.sql) | Creates the first, initially uncommitted booking |
+| [Oladoja_Ezekiel_301931918_06-booking-session-b.sql](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-3-transactions-concurrency/sql/Oladoja_Ezekiel_301931918_06-booking-session-b.sql) | Attempts a conflicting booking |
+| [Oladoja_Ezekiel_301931918_07-verify.sql](https://github.com/eoladoja31918/Oladoja_Ezekiel_301931918/blob/main/portfolio-3-transactions-concurrency/sql/Oladoja_Ezekiel_301931918_07-verify.sql) | Displays the surviving booking |
 | [Evidence folder](evidence/) | Actual screenshots, outputs, and session observations |
 
 ## Prerequisites
